@@ -1,29 +1,22 @@
 ====================== articles ================================
-https://kids.frontiersin.org/article/10.3389/frym.2020.00096
-http://download.neurosky.com/support_page_files/MindWaveMobile/docs/mindwave_mobile_user_guide.pdf
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3812603/
-https://store.neurosky.com/products/mindset-research-tools
-https://www.irjet.net/archives/V4/i3/IRJET-V4I3277.pdf
-https://www.semanticscholar.org/paper/Experimental-Model-of-a-Robotic-Hand-Controlled-by-Ru%C8%99anu-Cristea/8b390b20ccc3b552787d7c9f6691dbe32739f781
-https://www.diva-portal.org/smash/get/diva2:1297135/FULLTEXT01.pdf'
-
+https://blog.thomastoye.be/python-ldap-authentication-with-microsoft-active-directory-46661bebc483
+https://www.programcreek.com/python/example/107948/ldap3.Connection
+http://www.steves-internet-guide.com/send-file-mqtt/
+http://www.steves-internet-guide.com/client-connections-python-mqtt/
+https://www.hivemq.com/blog/mqtt-client-library-paho-python/
+https://www.programiz.com/python-programming/methods/built-in/hash
+https://nitratine.net/blog/post/how-to-hash-passwords-in-python/
+https://auth0.com/docs/integrations/authenticate-devices-using-mqtt
+https://www.emqx.io/blog/how-to-use-mqtt-in-python
+https://www.emqx.io/blog/use-mqtt-with-raspberry-pi
 
 ====================== Ex codes =================================
-https://gist.github.com/MexsonFernandes/ae332b7575b147c206f74971a4089d09
-https://github.com/marionleborgne/mind-controlled-robot
+https://github.com/jpmens/mosquitto-auth-plug#ldap-auth
+https://github.com/GoogleCloudPlatform/python-docs-samples/blob/master/iot/api-client/mqtt_example/cloudiot_mqtt_example.py
+https://github.com/googlecodelabs/iotcore-heartrate
+https://github.com/ogre0403/NCHC-AIST-Joint-Project/tree/master/mqtt-python
 
-
-====================== telnet ================================
-https://www.synology.com/en-us/knowledgebase/DSM/tutorial/Network/Whether_TCP_port_is_open_or_closed
-https://docs.python.org/3/library/telnetlib.html
-https://www.acronis.com/en-us/articles/telnet/
-
-
-====================== Bluetooth HC-05 ================================
-https://www.youtube.com/watch?v=lTvYbnr6aBo
-https://www.pantechsolutions.net/brain-computer-interface-projects/interfacing-mindwave-mobile-with-arduino
-
-
-====================== other ================================
-https://store.neurosky.com/pages/mindwave
-https://www.amazon.com/NeuroSky-MindWave-Mobile-Brainwave-Starter/dp/B07CXN8NKX
+====================== python lib================================
+https://pypi.org/project/paho-mqtt/
+https://pypi.org/project/ldap3/
+https://pypi.org/project/hashin/
