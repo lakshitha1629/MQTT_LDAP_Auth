@@ -1,0 +1,29 @@
+====================== articles ================================
+https://kids.frontiersin.org/article/10.3389/frym.2020.00096
+http://download.neurosky.com/support_page_files/MindWaveMobile/docs/mindwave_mobile_user_guide.pdf
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3812603/
+https://store.neurosky.com/products/mindset-research-tools
+https://www.irjet.net/archives/V4/i3/IRJET-V4I3277.pdf
+https://www.semanticscholar.org/paper/Experimental-Model-of-a-Robotic-Hand-Controlled-by-Ru%C8%99anu-Cristea/8b390b20ccc3b552787d7c9f6691dbe32739f781
+https://www.diva-portal.org/smash/get/diva2:1297135/FULLTEXT01.pdf'
+
+
+====================== Ex codes =================================
+https://gist.github.com/MexsonFernandes/ae332b7575b147c206f74971a4089d09
+https://github.com/marionleborgne/mind-controlled-robot
+
+
+====================== telnet ================================
+https://www.synology.com/en-us/knowledgebase/DSM/tutorial/Network/Whether_TCP_port_is_open_or_closed
+https://docs.python.org/3/library/telnetlib.html
+https://www.acronis.com/en-us/articles/telnet/
+
+
+====================== Bluetooth HC-05 ================================
+https://www.youtube.com/watch?v=lTvYbnr6aBo
+https://www.pantechsolutions.net/brain-computer-interface-projects/interfacing-mindwave-mobile-with-arduino
+
+
+====================== other ================================
+https://store.neurosky.com/pages/mindwave
+https://www.amazon.com/NeuroSky-MindWave-Mobile-Brainwave-Starter/dp/B07CXN8NKX
